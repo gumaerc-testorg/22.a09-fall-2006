@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-a09-career-options-for-biomedical-research-fall-2006/dcd49c05c10b9b1288ed5e29782f2b7a_lec8.pdf
+file: /media/courses/22-a09-career-options-for-biomedical-research-fall-2006/dcd49c05c10b9b1288ed5e29782f2b7a_lec8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: lec8.pdf
 uid: dcd49c05-c10b-9b12-88ed-5e29782f2b7a
