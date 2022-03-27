@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: sidney_yip_bio.pdf
 uid: ffb37439-b723-b4fa-6e1e-e8cc6c54c259

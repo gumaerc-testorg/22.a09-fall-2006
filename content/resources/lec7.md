@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: lec7.pdf
 uid: aebfb774-d46c-8295-c133-345cadb3f8f3

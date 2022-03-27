@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: xin_he.pdf
 uid: 66c44487-8dd4-2bbc-cf75-a3558effd066

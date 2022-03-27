@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: justin_tan.pdf
 uid: 4fc1bfa7-fa09-3b7d-e8dc-ab5c128fbacf

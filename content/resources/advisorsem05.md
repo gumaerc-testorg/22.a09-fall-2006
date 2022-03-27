@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e472b1ca-64ec-b07f-1c02-fd6b32d62f82
 resourcetype: Document
 title: advisorsem05.pdf
 uid: a44ebf9d-bf19-4e61-8a82-fb40ebc1788c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: sara_ruben.pdf
 uid: 6ea6a28a-ed8e-5c2d-79b5-5f42e34171ff

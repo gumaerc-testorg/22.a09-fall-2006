@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: minwah_leung.pdf
 uid: 82d1a46a-1e26-8a66-fbe8-dc4f5c5ef003

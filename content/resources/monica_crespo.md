@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: monica_crespo.pdf
 uid: 1f7de5c8-ddbc-8cee-7fc9-778f3f5a8a92
