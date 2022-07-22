@@ -6,6 +6,7 @@ file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/d55c20b0a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec13.pdf
 uid: d55c20b0-aa64-8a93-43d0-60d95ca991b0
 ---
 Perspective on Dr. Tom Deisboeck (Martinos Center, HST/MGH), written by Bruck Assefa.
-

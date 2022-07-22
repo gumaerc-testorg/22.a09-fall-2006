@@ -6,6 +6,7 @@ file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/534b2c918
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec10.pdf
 uid: 534b2c91-82be-ac2c-4592-0c674c39f22a
 ---
 Perspective on Dr. Ken Kwong and Dr. Bruce Jenkins (Martinos Center, HST/MGH), written by Xin He.
-

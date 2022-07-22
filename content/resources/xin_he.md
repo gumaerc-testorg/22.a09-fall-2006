@@ -5,6 +5,7 @@ file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/66c444878
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: xin_he.pdf
 uid: 66c44487-8dd4-2bbc-cf75-a3558effd066
 ---
 Student biographical statement by Xin He.
-

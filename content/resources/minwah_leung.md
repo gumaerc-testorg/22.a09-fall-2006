@@ -5,6 +5,7 @@ file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/82d1a46a1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: minwah_leung.pdf
 uid: 82d1a46a-1e26-8a66-fbe8-dc4f5c5ef003
 ---
 Student biographical statement by Minwah Leung.
-

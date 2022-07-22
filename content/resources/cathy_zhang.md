@@ -5,6 +5,7 @@ file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/c27619c4a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cathy_zhang.pdf
 uid: c27619c4-a2ae-5605-f025-a721375b0764
 ---
 Student biographical statement by Cathy Zhang.
-
