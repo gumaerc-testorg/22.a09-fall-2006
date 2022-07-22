@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course schedule.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4a310614-bb41-64cc-a406-e7ceadf3d7ad
 ---

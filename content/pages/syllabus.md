@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information about biomedical research in the Department
+  of Nuclear Science and Engineering, a historical perspective on freshman advisor
+  Seminar 22.A09, career options in biomedical research, 22.A09 class projects through
+  2004, and instructors' perspectives.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: eda61081-0087-307e-e5b3-c7e1ddfb0afc
 ---
