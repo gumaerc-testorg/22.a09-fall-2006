@@ -4,44 +4,39 @@ description: This section provides information about biomedical research in the 
   of Nuclear Science and Engineering, a historical perspective on freshman advisor
   Seminar 22.A09, career options in biomedical research, 22.A09 class projects through
   2004, and instructors' perspectives.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: eda61081-0087-307e-e5b3-c7e1ddfb0afc
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 1 session / week, 2 hours / session
 
-Interest in Biomedical Research in the Department of Nuclear Science and Engineering
-------------------------------------------------------------------------------------
+## Interest in Biomedical Research in the Department of Nuclear Science and Engineering
 
 The Department of Nuclear Science and Engineering (formerly Department of Nuclear Engineering) at MIT has a longstanding tradition of teaching and research in the field of nuclear medicine, that branch of clinical and biomedical studies which involve the uses and effects of nuclear radiations. In the early days, Positron Emission Tomography was a particular interest in the department, later it was Boron Neutron Capture Therapy and Neutron Capture Synovectomy using the MIT Research Reactor and an in-house accelerator. Another area where the Department is very active is Nuclear Magnetic Resonance, including f-MRI for neuro-imaging. The Department offers a Joint Program in Radiological Sciences with the Harvard-MIT Division of Health Science and Technology. Currently three faculty members plus an emeritus professor devote full time to an area which the Department has designated as Bio-Nuclear Science and Engineering. For further information about the Department, please see [MIT Department of Nuclear Science and Engineering](http://web.mit.edu/nse/).
 
-Historical Perspective on Freshman Advisor Seminar 22.A09, Career Options in Biomedical Research
-------------------------------------------------------------------------------------------------
+## Historical Perspective on Freshman Advisor Seminar 22.A09, Career Options in Biomedical Research
 
-The Freshman Advisor Seminar at MIT is a unique program that connects a small group of freshmen, typically 6 to 8, with an advisor in a weekly seminar arrangement. The Seminar could be on any topic that pertains to research and informal learning experience, for the purpose of introducing the students to aspects of life at MIT beyond the traditional classroom teaching. For further descriptions, see [Freshman Advising Seminars](http://web.mit.edu/firstyear/fas/).
+The Freshman Advisor Seminar at MIT is a unique program that connects a small group of freshmen, typically 6 to 8, with an advisor in a weekly seminar arrangement. The Seminar could be on any topic that pertains to research and informal learning experience, for the purpose of introducing the students to aspects of life at MIT beyond the traditional classroom teaching. For further descriptions, see [Freshman Advising Seminars](http://catalog.mit.edu/mit/undergraduate-education/academic-research-options/freshman-advising-seminars/).
 
 The seminar 22.A09 Career Options in Biomedical Research is led by Sidney Yip, a Professor at MIT, and Bruce Rosen, a Professor at Harvard Medical School and Director of the Martinos Center at MIT and Massachusetts General Hospital, with Xin He, a sophomore in Course 10, as Associate Advisor for 2006-2007. It meets at the same time with 22.013 Undergraduate Seminar in Nuclear Science and Engineering.
 
 Following is a description of the seminar:
 
-*   We have designed this seminar to give students an understanding of how scientists with medical or scientific degrees conduct research in both hospital and academic settings. There will be interactive discussions with research clinicians and scientists about the career opportunities and research challenges in the biomedical field, which an MIT student might prepare for by obtaining an MD, PhD, or combined degrees. We will hold the seminar in a case presentation format, with topics chosen from the radiological sciences, including current research in magnetic resonance imaging, positron emission tomography and other nuclear imaging techniques, and advances in radiation therapy. With the lectures as background, we will also examine alternative and related options such as biomedical engineering, medical physics, and medical engineering. We'll use as examples and points of comparisons the curriculum paths available through MIT's Department of Nuclear Science and Engineering. In past years we have given very modest assignments such as readings in advance of or after a seminar, and a short term project.
-    *   Sid Yip has been an MIT faculty member in Nuclear Science and Engineering since 1965, and in Materials Science and Engineering since 2000. He is interested in working with colleagues in and outside of MIT to develop an effective undergraduate program with a biomedical or pre-med orientation. In research he is engaged in the theory and simulation of materials at the molecular level.
-    *   Bruce Rosen holds both MD and PhD degrees. He is on the faculty of the Harvard Medical School in the Department of Radiology, and director of the Athinoula A. Martinos Center, MIT and Massachusetts General Hospital, Charlestown.
+- We have designed this seminar to give students an understanding of how scientists with medical or scientific degrees conduct research in both hospital and academic settings. There will be interactive discussions with research clinicians and scientists about the career opportunities and research challenges in the biomedical field, which an MIT student might prepare for by obtaining an MD, PhD, or combined degrees. We will hold the seminar in a case presentation format, with topics chosen from the radiological sciences, including current research in magnetic resonance imaging, positron emission tomography and other nuclear imaging techniques, and advances in radiation therapy. With the lectures as background, we will also examine alternative and related options such as biomedical engineering, medical physics, and medical engineering. We'll use as examples and points of comparisons the curriculum paths available through MIT's Department of Nuclear Science and Engineering. In past years we have given very modest assignments such as readings in advance of or after a seminar, and a short term project.
+    - Sid Yip has been an MIT faculty member in Nuclear Science and Engineering since 1965, and in Materials Science and Engineering since 2000. He is interested in working with colleagues in and outside of MIT to develop an effective undergraduate program with a biomedical or pre-med orientation. In research he is engaged in the theory and simulation of materials at the molecular level.
+    - Bruce Rosen holds both MD and PhD degrees. He is on the faculty of the Harvard Medical School in the Department of Radiology, and director of the Athinoula A. Martinos Center, MIT and Massachusetts General Hospital, Charlestown.
 
-22.A09 Class Projects Through 2004
-----------------------------------
+## 22.A09 Class Projects Through 2004
 
 The spirit of the Freshman Advisor Seminar is to encourage exploration of various ways a student can learn and grow outside the class room during the first year at the Institute. The small group size and opportunities for personal interactions are designed for free-style exchange with fellow students and mentors of all kinds. 22.A09 meets concurrently with 22.013, an undergraduate seminar on the same topic, which typically draws only a few students. At each class meeting an outside speaker is invited to come and meet with the students in an informal discussion of a topic in biomedical research, along with remarks on career trajectories, using the speaker's own paths as example. The students get to meet two types of speakers, faculty and staff at MIT involved in various programs pertaining to biomedical studies, and MDs and PhDs from the Massachusetts General Hospital with experience in clinical studies and grant-sponsored research. Part of the discussions invariably will touch on the issue of what resources are required in order to carry out a research project. The students are made aware of the fact that every research study will have to funded, thus someone would have to write a proposal. The question of what does it take to write a successful proposal is one that is frequently asked, discussed, and answered in various ways.
 
 Prior to this year, the class project is a proposal which each student presents on the last day of class. While the topic of proposal is left up to the student, each proposal must have the same basic parts - Introduction, Statement of Proposed Study, Approach to be Taken, Results Expected, Personnel, Budget. In writing such a proposal the student gains appreciation of what is involved in a research study, from conception to implementation to conclusion. The student also learns that proposal writing (and later evaluation) will always be a part of the professional life of a research scientist.
 
-Instructor's Perspective
-------------------------
+## Instructor's Perspective
 
 ### Sidney Yip (Seminar Advisor)
 
