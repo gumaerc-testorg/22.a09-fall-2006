@@ -2,6 +2,7 @@
 content_type: resource
 description: Perspective on Prof. Sidney Yip, written by Justin Tan.
 file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/ffb37439b723b4fa6e1ee8cc6c54c259_sidney_yip_bio.pdf
+file_size: 99831
 file_type: application/pdf
 learning_resource_types:
 - Assignments

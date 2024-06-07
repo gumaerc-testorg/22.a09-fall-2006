@@ -2,6 +2,7 @@
 content_type: resource
 description: Student biographical statement by Xin He.
 file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/66c444878dd42bbccf75a3558effd066_xin_he.pdf
+file_size: 11293
 file_type: application/pdf
 learning_resource_types:
 - Assignments

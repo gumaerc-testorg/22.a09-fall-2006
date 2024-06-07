@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/dcd49c05c10b9b1288ed5e29782f2b7a_lec8.pdf
+file_size: 122708
 file_type: application/pdf
 learning_resource_types:
 - Assignments

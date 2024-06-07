@@ -2,6 +2,7 @@
 content_type: resource
 description: Student biographical statement by Justin Tan.
 file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/4fc1bfa7fa093b7de8dcab5c128fbacf_justin_tan.pdf
+file_size: 119542
 file_type: application/pdf
 learning_resource_types:
 - Assignments
