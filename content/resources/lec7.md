@@ -3,6 +3,7 @@ content_type: resource
 description: Perspectives on Dr. Maria Mody and Dr. Seppo Ahlfors (Martinos Center,
   HST/MGH), written by Monica Crespo.
 file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/aebfb774d46c8295c133345cadb3f8f3_lec7.pdf
+file_size: 89054
 file_type: application/pdf
 learning_resource_types:
 - Assignments
