@@ -2,6 +2,7 @@
 content_type: resource
 description: Student biographical statement by Sara Rubenstein.
 file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/6ea6a28aed8e5c2d79b55f42e34171ff_sara_ruben.pdf
+file_size: 86694
 file_type: application/pdf
 learning_resource_types:
 - Assignments

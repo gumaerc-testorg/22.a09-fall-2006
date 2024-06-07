@@ -3,6 +3,7 @@ content_type: resource
 description: Perspective on Dr. Tom Deisboeck (Martinos Center, HST/MGH), written
   by Bruck Assefa.
 file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/d55c20b0aa648a9343d060d95ca991b0_lec13.pdf
+file_size: 122255
 file_type: application/pdf
 learning_resource_types:
 - Assignments
