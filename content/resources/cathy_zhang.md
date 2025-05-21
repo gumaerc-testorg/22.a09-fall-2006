@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student biographical statement by Cathy Zhang.
-file: /ol-ocw-studio-app/courses/22-a09-career-options-for-biomedical-research-fall-2006/c27619c4a2ae5605f025a721375b0764_cathy_zhang.pdf
+file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/c27619c4a2ae5605f025a721375b0764_cathy_zhang.pdf
 file_size: 86244
 file_type: application/pdf
 learning_resource_types:

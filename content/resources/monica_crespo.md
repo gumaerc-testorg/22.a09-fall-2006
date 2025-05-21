@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student biographical statement by Monica Crespo.
-file: /ol-ocw-studio-app/courses/22-a09-career-options-for-biomedical-research-fall-2006/1f7de5c8ddbc8cee7fc9778f3f5a8a92_monica_crespo.pdf
+file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/1f7de5c8ddbc8cee7fc9778f3f5a8a92_monica_crespo.pdf
 file_size: 86891
 file_type: application/pdf
 learning_resource_types:
