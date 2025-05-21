@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student biographical statement by Daon Ha.
-file: /ol-ocw-studio-app/courses/22-a09-career-options-for-biomedical-research-fall-2006/632fe59a4290c60b47d64132c715182e_daon_ha.pdf
+file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/632fe59a4290c60b47d64132c715182e_daon_ha.pdf
 file_size: 85783
 file_type: application/pdf
 learning_resource_types:
