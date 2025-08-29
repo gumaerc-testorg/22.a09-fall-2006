@@ -2,7 +2,7 @@
 content_type: resource
 description: Perspective on Prof. Jacquelyn Yanch (Nuclear Science and Engineering,
   MIT), written by Minwah Leung.
-file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/45404a9cf1ed810002fafc476e4d3656_lec9.pdf
+file: /ol-ocw-studio-app/courses/22-a09-career-options-for-biomedical-research-fall-2006/45404a9cf1ed810002fafc476e4d3656_lec9.pdf
 file_size: 128104
 file_type: application/pdf
 learning_resource_types:
