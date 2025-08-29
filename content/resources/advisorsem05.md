@@ -2,7 +2,7 @@
 content_type: resource
 description: Slides from Lecture 11 by Prof Sidney Yip, "A Glimpse of MIT, Nuclear
   Engineering, and Multiscale Materials Modeling and Simulation."
-file: /courses/22-a09-career-options-for-biomedical-research-fall-2006/a44ebf9dbf194e618a82fb40ebc1788c_advisorsem05.pdf
+file: /ol-ocw-studio-app/courses/22-a09-career-options-for-biomedical-research-fall-2006/a44ebf9dbf194e618a82fb40ebc1788c_advisorsem05.pdf
 file_size: 1950486
 file_type: application/pdf
 learning_resource_types:
