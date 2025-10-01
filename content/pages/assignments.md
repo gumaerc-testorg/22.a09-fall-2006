@@ -25,7 +25,7 @@ The class project is a report on the opportunities for biomedical research at MI
 
 A new president, Dr. Susan Hockfield, was inaugurated at MIT in the spring of 2005. One of her first actions in office is to convene a Student Advisory Board (SAB) to undertake an assessment of MIT from the student perspective. The SAB report, released in April 2005, is a document worthy of attention by anyone who has an interest in MIT.
 
-Entitled [_MIT in Transition - Student Perspectives on MIT's Legacy Strengths, Emerging Challenges, and Future Directions_](http://web.mit.edu/committees/sab/), this document is the inspiration for a new class project. The idea is to copy this process of empowering the students to undertake a broad-based assessment of a very diverse organization and come to some understanding of its evolution in a continually changing environment. To do anything, the students must not be afraid to ask simple but fundamental questions, and demand the answers be given in understandable terms for the constituents of the organization - the students. In our class, we ask the students to examine not an institution, but a diverse collection of activities and programs pertaining to many aspects of biomedical research. The challenge to the students, again, is not to be intimidated or overwhelmed, rather to dig in and make some sense of the confusing scene. It is an experiment in a real sense, no one knew what to expect from this exercise. In any case we pushed on early in the semester and ask the students to try it.
+Entitled {{% resource_link "0ea6cec4-5ddd-42a7-96c7-4ba3b67e389b" "_MIT in Transition - Student Perspectives on MIT's Legacy Strengths, Emerging Challenges, and Future Directions_" %}}, this document is the inspiration for a new class project. The idea is to copy this process of empowering the students to undertake a broad-based assessment of a very diverse organization and come to some understanding of its evolution in a continually changing environment. To do anything, the students must not be afraid to ask simple but fundamental questions, and demand the answers be given in understandable terms for the constituents of the organization - the students. In our class, we ask the students to examine not an institution, but a diverse collection of activities and programs pertaining to many aspects of biomedical research. The challenge to the students, again, is not to be intimidated or overwhelmed, rather to dig in and make some sense of the confusing scene. It is an experiment in a real sense, no one knew what to expect from this exercise. In any case we pushed on early in the semester and ask the students to try it.
 
 Charge to the Class: Thoughts on the Term Project ({{% resource_link 2155bef5-d7d8-c80d-e779-a39d8c809740 "PDF" %}})
 
@@ -82,7 +82,7 @@ Drs. Maria Mody and Seppo Ahlfors (Martinos Center, HST/MGH), by Monica Crespo (
 
 Dr. Elizabeth Hillman (Martinos Center, HST/MGH)
 
-_Note_: As of Fall 2006, [Dr. Hillman](http://orion.bme.columbia.edu/~hillman/Hillman.html) directs Columbia University's [Laboratory for Functional Optical Imaging](http://orion.bme.columbia.edu/~hillman/).
+_Note_: As of Fall 2006, {{% resource_link "d26646de-77ef-435f-8601-bbeab1e9b47a" "Dr. Hillman" %}} directs Columbia University's {{% resource_link "63b68e99-7e2b-40b8-8d38-f0e1aed307f6" "Laboratory for Functional Optical Imaging" %}}.
 
 
 {{< tdclose >}}
